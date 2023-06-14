@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" style="background-color: rgb(201, 243, 195)">
     <b-navbar fixed-top :mobile-burger="false">
       <template #brand>
         <div id="left"></div>
